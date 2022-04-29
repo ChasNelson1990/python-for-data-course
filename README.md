@@ -9,7 +9,7 @@ This repository contains materials for an intermediate-level python course (deli
 The overall aim of this course it to:
 
 1. introduce key Python libraries for data wrangling, data analysis and data visualisation within the comfort of the Jupyter framework
-2. introduce ways of sharing analyses with those without coding ability
+2. introduce concepts of code reproducibility and ways of sharing analyses with those without coding ability
 
 ## Philosophy
 
